@@ -1,0 +1,17 @@
+{
+  "name": "pluralsight-nodejs-demo-membership",
+  "version": "1.0.0",
+  "description": "Pluralsight Node.js Demo: Membership",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --exec babel-node index.js"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
